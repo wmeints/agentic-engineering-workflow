@@ -6,15 +6,9 @@ to agentic engineering.
 
 ## Core principles
 
-- **Human understanding before agent execution.** We don't hand work to an agent until humans have a coherent picture of what to build and why. 
+- **Human understanding before agent execution.** It's important to be able to review and understand what you're building. Agent execution speed is second to this.
 
-- **Progressive elaboration.** Detail is added just-in-time, not upfront. High-level decisions land before low-level ones.
-
-- **Human review capacity is the bottleneck.** Sizing decisions optimize for reviewability, not for agent throughput.
-
-- **Four peer concerns.** Functional decomposition, architecture, UX, and test strategy are first-class peers — none is subordinate to the others.
-
-- **One artifact per concern.** Avoid duplication; cross-link rather than copy.
+- **Progressive elaboration.** Detail is added just-in-time, not upfront. High-level decisions land before low-level ones. Agents can explore information from a hierarchical perspective.
 
 - **Outcome over output.** Stories and features are output-based; epics are outcome-based.
 
